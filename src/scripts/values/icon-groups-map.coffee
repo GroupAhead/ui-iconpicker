@@ -659,6 +659,7 @@ umd this, (angular) ->
     "ionicons" :
       prefix : "icon ion-"
       classes : [
+        "none"
         "alert-circled"
         "alert"
         "android-add-circle"
